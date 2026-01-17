@@ -1,5 +1,16 @@
 # Wine Quality Analysis & Prediction
 
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-1A162D?style=flat-square)
+![ggplot2](https://img.shields.io/badge/ggplot2-E34A6F?style=flat-square)
+![caret](https://img.shields.io/badge/caret-FF6F00?style=flat-square)
+![randomForest](https://img.shields.io/badge/randomForest-228B22?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Dataset](https://img.shields.io/badge/Dataset-UCI_ML_Repository-blue?style=flat-square)](https://doi.org/10.24432/C56S3T)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
+
 A comprehensive machine learning project that analyzes wine quality using Classification and Regression Trees (CARTs) and Random Forests to predict quality classifications based on physicochemical properties of Portuguese Vinho Verde wines.
 
 ## Overview
